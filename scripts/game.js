@@ -121,7 +121,7 @@ choices.forEach(choice => {
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
 
         if (classToApply === 'correct') {
-            incrementScore(SCORE_POINTS + (localStorage.getItem('remainingTime') / 10))
+            incrementScore(Math.round(SCORE_POINTS + (localStorage.getItem('remainingTime') / 10)))
         } else if (classToApply === 'incorrect') {
             time = time - 50
             incrementScore(0)
