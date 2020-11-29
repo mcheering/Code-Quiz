@@ -1,6 +1,7 @@
 # Coding Quiz Project
 
 ### About
+<h4><a href="https://mcheering.github.io/Code-Quiz/">Coding Quiz Here</a></h4>
 
 This project uses html, css, and javascript to create a quiz that is responsive to user input and device type. I relied on javascript that edits the DOM based on which page and what the user clicks on to make it more responsive. When you arrive at the site you are greeted to a home page where it describes what the quiz is, and how you are scored. You can start the quiz or go check your high scores from previous attemtps. It will only record your attempts, because it utilizes local storage. The home page looks like the image below.
 
