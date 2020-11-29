@@ -29,5 +29,5 @@
             <img src="images/clearscores.png">
             <p>If you like this project, you can easily modify it by adding more questions of your own to the questions object in quiz.js.  You will need to change the MAX_QUESTIONS variable though to match the number of questions you have.  Then it should work with your questions.  The progress bar will also still work if you add more questions and will change based on the number of questions you have.  </p>
 
-      </body>
+    </body>
 </html>
