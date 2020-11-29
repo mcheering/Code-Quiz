@@ -4,7 +4,7 @@
 
 This project uses html, css, and javascript to create a quiz that is responsive to user input and device type. I relied on javascript that edits the DOM based on which page and what the user clicks on to make it more responsive. When you arrive at the site you are greeted to a home page where it describes what the quiz is, and how you are scored. You can start the quiz or go check your high scores from previous attemtps. It will only record your attempts, because it utilizes local storage. The home page looks like the image below.
 
-<img src="images/home.png" stye="width: 350px;">
+<img src="Images/home.png" stye="width: 350px;">
 
 If you click start, you will see a new page with a progress bar that tells you which question you are on, the time left, and your score up until that point. It will look like the image below.
 
@@ -14,7 +14,7 @@ When select an answer, it will change the color of the purple boxes to green if 
 
 #### Correct Answer
 
-<img src="images/correctanswer.png" style="width: 350px">
+<img src="Images/correctanswer.png" style="width: 350px">
 
 #### Incorrect Answer
 
